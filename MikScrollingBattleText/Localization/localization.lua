@@ -25,6 +25,7 @@ L.FONT_FILES = {
 	["MSBT Talisman"]		= "Interface\\Addons\\MikScrollingBattleText\\Fonts\\talisman.ttf",
 	["MSBT Transformers"]	= "Interface\\Addons\\MikScrollingBattleText\\Fonts\\transformers.ttf",
 	["MSBT Yellowjacket"]	= "Interface\\Addons\\MikScrollingBattleText\\Fonts\\yellowjacket.ttf",
+	["MSBT Storopia"]		= "Interface\\Addons\\MikScrollingBattleText\\Fonts\\StoropiaBold.ttf",
 }
 
 L.DEFAULT_FONT_NAME = "MSBT Porky"
